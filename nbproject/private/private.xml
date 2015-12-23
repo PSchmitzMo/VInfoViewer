@@ -3,21 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/CellRenderer.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/ViewerTableModel.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/ViewerTab.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/ColumnChoice.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/Controller.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/VInfoSet.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/ViewerException.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/ViewNameChoice.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/ConfigDialog.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/TimServer.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/System.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/Util.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/CfgColumnGroup.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/logic/VInfoRecord.java</file>
-            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vinfo/viewer/VInfoViewer.java</file>
+            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vzh/vinfo/viewer/ViewName.java</file>
+            <file>file:/C:/Develop/Java/NetBeansProjects/VInfoViewer/src/de/heuboe/vzh/vinfo/viewer/VInfoViewer.java</file>
         </group>
     </open-files>
 </project-private>
