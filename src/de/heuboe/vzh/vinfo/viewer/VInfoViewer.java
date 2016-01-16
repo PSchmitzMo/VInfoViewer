@@ -18,12 +18,6 @@ import javax.swing.table.TableColumn;
 
 
 
-
-
-
-
-
-
 /**
  *
  * @author peter_2
